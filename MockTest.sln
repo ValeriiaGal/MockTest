@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication3", "WebApplication3\WebApplication3.csproj", "{6C56190A-210F-4BDB-8B33-DD907FC84B64}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MockTest", "MockTest\MockTest.csproj", "{6C56190A-210F-4BDB-8B33-DD907FC84B64}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
