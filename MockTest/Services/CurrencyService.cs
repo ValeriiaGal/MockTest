@@ -135,6 +135,7 @@ public class CurrencyService : ICurrencyService
         }
     }
 //aaaaaaaa
+//llll
     public async Task<object?> SearchCurrency(string type, string query)
     {
         using (var conn = new SqlConnection(_connectionString))
