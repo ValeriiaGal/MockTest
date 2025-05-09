@@ -49,3 +49,5 @@ app.MapGet("/api/search", async (string type, string query, ICurrencyService ser
 });
 
 app.Run();
+
+//testestestsadfaasdfasdf
